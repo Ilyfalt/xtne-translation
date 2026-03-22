@@ -1,2 +1,2 @@
 # xtne-translation
-一个翻译脚本
+ - 自用翻译脚本
